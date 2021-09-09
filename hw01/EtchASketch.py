@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python3
+#!chmod +x
 print("Input a height: ")
 height = input()
 print("Height set to " + height)
