@@ -28,13 +28,11 @@ Oscilloscope
 
 Python 
 
-1.	Period = 
-	Frequency =
+1.	Period = 160us
+	Frequency = 6.25kHz
 
-2.
+2. 100% of the processor is in use.
 
-3. (table)
 
-GPIOD
 
-(table)
+
