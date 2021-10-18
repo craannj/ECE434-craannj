@@ -1,6 +1,6 @@
-Homework 06
+<h1>Homework 06<h1>
 
-Watch
+<h2>Watch<h2>
 
 1. Julia Cartwright works at National Instruments. 
 2. PREEMPT_RT is a patch that makes Linux into a real time system. This is done when embedded projects call for a real-time operating system.
@@ -14,36 +14,37 @@ Watch
 10. The low priority interupt is keeping the external event in Figure 3 from starting.
 11. The external event in Figure 4 can start sooner with irq threads.
 
-Preempt_Rt
-Load folder includes results from test with load
-Non-Load folder includes results from test with no load
+<h2>Preempt_Rt<h2>
 
-Test 1 - Load
+<h2>Test 1 - Load<h2>
 
-non rt
-real 1m59.073s
-user 0m1.348s
-sys  0m4.097s
+| non rt |
+|------|-----------|
+| real | 1m59.073s |
+| user | 0m1.348s  |
+| sys  | 0m4.097s  |
 
-rt 
-real 1m44.458s
-user 0m1.063s
-sys  0m4.043s
+| rt | 
+|------|-----------|
+| real | 1m44.458s |
+| user | 0m1.063s  |
+| sys  | 0m4.043s  |
 
-Test With Load
-cyclictest.png
+![Test With Load](cyclictest.png)
 
-Test 2 - No Load
+<h2>Test 2 - No Load<h2>
 
-non rt
-real 1m44.024s
-user 0m1.069s
-sys  0m3.256s
+| non rt |
+|------|-----------|
+| real | 1m44.024s |
+| user | 0m1.069s  |
+| sys  | 0m3.256s  |
 
-rt 
-real 1m44.866s
-user 0m0.861s
-sys  0m3.159s
+| rt | 
+|------|-----------|
+| real | 1m44.866s |
+| user | 0m0.861s  |
+| sys  | 0m3.159s  |
 
-Test With No Load
-cyclictest2.png
+
+![Test With No Load](cyclictest2.png)
