@@ -14,7 +14,8 @@
 10. The low priority interupt is keeping the external event in Figure 3 from starting.
 11. The external event in Figure 4 can start sooner with irq threads.
 
-<h2>Preempt_Rt<h2>
+<h2>PREEMPT_RT<h2>
+  The RT kernel has a bounded latency. For a load I am using the makefile from hw05 and constantly doing make and make clean. 
 
 <h3>Test 1 - Load<h3>
 
