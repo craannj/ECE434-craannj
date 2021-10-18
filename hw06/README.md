@@ -16,15 +16,15 @@
 
 <h2>Preempt_Rt<h2>
 
-<h2>Test 1 - Load<h2>
+<h3>Test 1 - Load<h3>
 
-| non rt |
+| non rt |         |
 |------|-----------|
 | real | 1m59.073s |
 | user | 0m1.348s  |
 | sys  | 0m4.097s  |
 
-| rt | 
+| rt |             |
 |------|-----------|
 | real | 1m44.458s |
 | user | 0m1.063s  |
@@ -32,15 +32,15 @@
 
 ![Test With Load](cyclictest.png)
 
-<h2>Test 2 - No Load<h2>
+<h3>Test 2 - No Load<h3>
 
-| non rt |
+| non rt |         |
 |------|-----------|
 | real | 1m44.024s |
 | user | 0m1.069s  |
 | sys  | 0m3.256s  |
 
-| rt | 
+| rt |             |
 |------|-----------|
 | real | 1m44.866s |
 | user | 0m0.861s  |
