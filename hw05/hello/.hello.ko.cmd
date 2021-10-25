@@ -1,0 +1,1 @@
+cmd_/home/debian/exploringBB/extras/kernel/hello/hello.ko := ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/debian/exploringBB/extras/kernel/hello/hello.ko /home/debian/exploringBB/extras/kernel/hello/hello.o /home/debian/exploringBB/extras/kernel/hello/hello.mod.o ;  true
