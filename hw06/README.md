@@ -49,3 +49,18 @@
 
 
 ![Test With No Load](cyclictest2.png)
+
+# hw06 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+|  2/2 | Project 
+|  5/5 | Questions
+|  4/4 | PREEMPT_RT
+|  1/2 | Plots to 500 us
+|  5/5 | Plots - Heavy/Light load
+|  2/2 | Extras
+| 19/20 | **Total**
+
+*My comments are in italics. --may*
+
