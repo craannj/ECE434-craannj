@@ -2,5 +2,5 @@
 
 Google Sheet Link - https://docs.google.com/spreadsheets/d/1WFt2pcTjp-55zFXNzGb9ekktZibOxfmuAbW247G6iuA/edit?usp=sharing
 
-![Tempurature Plot Screenshot](Homework9.png)
+![Tempurature Plot Screenshot](Homework9.PNG)
 
