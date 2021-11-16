@@ -6,3 +6,17 @@ The code stops once it reaches the end of the code. With the delay set to 0 the 
 
 5.3 PWM Generator
 The waveform is stable and there is not jitter.
+
+# hw08 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+| 13/14 | PRU
+|  0/2 | Controlling the PWM Frequency - optional
+|  0/2 | Reading an Input at Regular Intervals - optional
+|  0/2 | Analog Wave Generator - optional
+| 13 | **Total**
+
+*My comments are in italics. --may*
+
+*Your PWM code only turns on the pin.*
